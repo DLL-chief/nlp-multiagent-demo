@@ -1,1 +1,5 @@
-всё будет
+flask
+transformers>=4.38
+huggingface_hub
+accelerate
+torch

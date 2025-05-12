@@ -1,1 +1,3 @@
-Всё будет
+flask
+detoxify
+torch

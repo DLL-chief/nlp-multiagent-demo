@@ -98,7 +98,7 @@ curl -X POST http://localhost:5000/generate \
 
 ## 🎬 Демонстрация работы (видео/скринкаст)
 
-- [Видео-презентация (скринкаст) работы бота на тестовых примерах)](https://drive.google.com/file/d/1SOKQSd-EeNeaXzWmf3eZaLKCpZpIGSCI/view?usp=sharing)
+- [Видео-презентация (скринкаст) работы бота на тестовых примерах)](https://drive.google.com/file/d/1JfW2EbGri9sj9m-gS7D8rbLVrxfuPMIe/view?usp=sharing)
 
 ---
 
